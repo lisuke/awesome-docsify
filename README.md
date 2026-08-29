@@ -153,6 +153,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Subhranil's Docs](https://subhranildas.github.io/Docs/) - A customizable technical documentation site for quick reference on several topics.
 - [Injee Docs](https://injee.codeberg.page/docs/#/) - Docs for Injee - - The no configuration instant Database for front end developers.
 - [JSON Model](https://json-model.org/) - Docs and benches for JSON Model, a compact and intuitive JSON syntax to describe JSON data structures.
+- [KIVA Practice Session](https://kiva.cri.minesparis.psl.eu/) - KIVA Flask and Postgres backend programming practice session for students.
 
 ## Community Resources
 
